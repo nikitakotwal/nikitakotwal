@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikitakotwal
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me nikitakotwal
 
